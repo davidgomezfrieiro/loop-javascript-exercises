@@ -38,7 +38,7 @@ let horario = ["A las 8, el sim se despierta",
 for (let i = 0; i < horario.length; i++) {
     let actividad = horario[i];
 
-    console.log(horas);
+    console.log(actividad);
 }
 
 
