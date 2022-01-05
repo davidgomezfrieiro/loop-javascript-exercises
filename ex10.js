@@ -29,9 +29,18 @@ let hora_dormir = 24;
 //---------------------
 let horario = ["A las 8, el sim se despierta", 
     "A las 9, el sim desayuna",
-    "De 10 a 16, el sim estudia Front End",
+    "A las 10, el sim estudia Front End",
+    "A las 11, el sim estudia Front End",
+    "A las 12, el sim estudia Front End",
+    "A las 13, el sim estudia Front End",
+    "A las 14, el sim estudia Front End",
+    "A las 15, el sim estudia Front End",
+    "A las 16, el sim estudia Front End",
     "A las 17, siesta",
-    "De 18 a 22, el sim tiene tiempo libre",
+    "A las 18, el sim tiene tiempo libre",
+    "A las 19, el sim tiene tiempo libre",
+    "A las 20, el sim tiene tiempo libre",
+    "A las 21, el sim tiene tiempo libre",
     "A las 22, el sim cena",
     "A las 23, el sim se va a dormir"];
 
